@@ -1,5 +1,6 @@
 [
 null,
+<<<<<<< HEAD
 {"id":1,"expanded":true,"name":"Rumah Wali","order":25,"parentId":0,"scrollX":1473,"scrollY":1021.5},
 {"id":2,"expanded":true,"name":"Rebels","order":1,"parentId":0,"scrollX":2356.7999999999997,"scrollY":1634.3999999999999,"quick":false},
 {"id":3,"expanded":true,"name":"Map Utama","order":2,"parentId":2,"scrollX":841.7142857142857,"scrollY":3270},
@@ -29,6 +30,14 @@ null,
 {"id":27,"expanded":false,"name":"Otw kota","order":30,"parentId":0,"scrollX":841.7142857142857,"scrollY":583.7142857142857,"quick":false},
 {"id":28,"expanded":false,"name":"Pemerintah","order":17,"parentId":22,"scrollX":841.7142857142857,"scrollY":570,"quick":false},
 {"id":29,"expanded":false,"name":"Markas Buangan Pem. bawah","order":7,"parentId":7,"scrollX":928.5,"scrollY":522.75,"quick":false},
-{"id":30,"expanded":true,"name":"Map Utama","order":15,"parentId":2,"scrollX":2038.2857142857142,"scrollY":1542},
-{"id":31,"expanded":false,"name":"sigma iqbal njir","order":29,"parentId":20,"scrollX":0,"scrollY":0,"quick":false}
+{"id":30,"expanded":false,"name":"Lost Forest","order":6,"parentId":25,"scrollX":1062,"scrollY":624,"quick":false},
+{"id":31,"expanded":false,"name":"Customs Station","order":7,"parentId":25,"scrollX":816,"scrollY":800,"quick":false},
+{"id":32,"expanded":false,"name":"Swamp","order":8,"parentId":25,"scrollX":864,"scrollY":1136,"quick":false},
+{"id":33,"expanded":false,"name":"Highway","order":39,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
+{"id":34,"expanded":false,"name":"Pemerintah 1F","order":21,"parentId":22,"scrollX":1136,"scrollY":760,"quick":false},
+{"id":35,"expanded":false,"name":"Pemerintah 2F","order":22,"parentId":22,"scrollX":1350.5454545454545,"scrollY":760.3636363636364,"quick":false},
+{"id":36,"expanded":false,"name":"Pemerintah 3F","order":23,"parentId":22,"scrollX":1350.5454545454545,"scrollY":1159.6363636363637,"quick":false},
+{"id":37,"expanded":true,"name":"Military Base Exterior","order":29,"parentId":18,"scrollX":816,"scrollY":800,"quick":false},
+{"id":38,"expanded":false,"name":"Military Base Interior","order":31,"parentId":37,"scrollX":832,"scrollY":800,"quick":false},
+{"id":39,"expanded":false,"name":"Bar","order":33,"parentId":18,"scrollX":816,"scrollY":624,"quick":false}
 ]
