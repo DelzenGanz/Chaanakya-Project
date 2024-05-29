@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"battlerName":"Lino","characterIndex":0,"characterName":"Lino","classId":1,"equips":[1,0,0,0,0],"faceIndex":0,"faceName":"Lino","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lino","nickname":"Lino","note":"","profile":""},
-{"id":2,"battlerName":"Actor2_6","characterIndex":1,"characterName":"SF_Actor3","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"SF_Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mamah Lino","nickname":"nggak bisa namain aku","note":"","profile":""},
-{"id":3,"battlerName":"","characterIndex":1,"characterName":"SF_Monster","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"SF_Monster","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ayah Lino","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor2_6","characterIndex":1,"characterName":"SF_Actor3","classId":3,"equips":[16,0,0,0,89],"faceIndex":1,"faceName":"SF_Actor3","traits":[],"initialLevel":50,"maxLevel":99,"name":"???","nickname":"???","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":1,"characterName":"SF_Monster","classId":7,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"SF_Monster","traits":[],"initialLevel":50,"maxLevel":99,"name":"???","nickname":"???","note":"","profile":""},
 {"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
 ]
